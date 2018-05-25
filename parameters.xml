@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<!--
+    image quilting parameters
+-->
+<image_quilting>
+	<mode>
+		<useconv> 0 </useconv>
+		<simple> 0 </simple>
+		<show_every_pic> 0 </show_every_pic>
+	</mode>
+
+</image_quilting>
+
